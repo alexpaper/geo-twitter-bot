@@ -1,7 +1,7 @@
 # Geo Twitter VELOCE.
 See public tweets by geo location, country and region.
 
-With this code you can also create a simple twitter bot that retweet specific tweet that matches with a your search key.
+With this code you can also create a simple twitter bot that retweet specific tweets that matches with a your search key.
 Simple change the q string:
 
 ```
